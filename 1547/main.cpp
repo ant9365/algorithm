@@ -1,4 +1,5 @@
 #include <iostream>
+// 입력받는 순서대로 바로 swap 을 해서 처리함. 
 int main() {
 	int a, s=0,a[4] = { 0,1,0,0 };
 	std::cin >> a;

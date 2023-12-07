@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//재귀함수로 해당 부분을 풀어야 한다.
+//같은 수를 골라도 되므로 방문에 대한 check 는 필요없다.  
 int N, M;
 int i, j;
 int arr[8];
