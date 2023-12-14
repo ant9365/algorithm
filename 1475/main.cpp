@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+//https://www.acmicpc.net/problem/1475
 int main() {
 	int a[10];
 	int result;

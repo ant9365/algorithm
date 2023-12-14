@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.acmicpc.net/problem/2562
 int main() 
 {
 	int input[9];

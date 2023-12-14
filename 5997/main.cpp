@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.acmicpc.net/problem/5997
 void main() {
 //        입력을 하면 1
 //       배열에 입력해 놓으면 체크안한 indx 가 제출안한 case

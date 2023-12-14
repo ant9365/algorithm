@@ -1,5 +1,5 @@
 #include <iostream>
-
+//https://www.acmicpc.net/problem/22846
 using namespace std;
 int main() {
 	int array[200000]  = {0,};

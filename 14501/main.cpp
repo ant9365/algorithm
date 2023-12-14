@@ -1,4 +1,5 @@
 #include <iostream>
+//https://www.acmicpc.net/problem/14501
 using namespace std;
 
 int a[20], b[20];

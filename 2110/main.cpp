@@ -1,6 +1,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+//https://www.acmicpc.net/problem/2110
 
 using namespace std;
 

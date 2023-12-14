@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//https://www.acmicpc.net/problem/2869
 void main() {
 	int up, down,result, high = 0, day;
 	scanf("%d %d %d", &up, &down, &result);

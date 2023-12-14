@@ -1,5 +1,5 @@
 #include <iostream>
-
+//https://www.acmicpc.net/problem/2884
 using namespace std;
 
 //기존 시간에서 시 가 바뀌면 + 15 

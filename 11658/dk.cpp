@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string.h>
+//https://www.acmicpc.net/problem/11658
 using namespace std;
 
 int table_size;

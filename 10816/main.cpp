@@ -1,4 +1,5 @@
 #include <iostream>
+//https://www.acmicpc.net/problem/10816
 using namespace std;
 
 int main(void) {

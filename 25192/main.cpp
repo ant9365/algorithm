@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <iostream>
-#include <set>
 #include <string>
+//https://www.acmicpc.net/problem/25192
 using namespace std;
 
 int main() {
